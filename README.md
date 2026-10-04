@@ -5,10 +5,11 @@ on robotics: control systems, robotic manipulators, humanoids and autonomous
 systems. I like taking an idea all the way from the math and the simulation to
 the real hardware.
 
-🔭 **Currently:** my master's thesis, *bimanual picking of tangerines on a
-moving conveyor belt with a Unitree H1-2 humanoid*. I'm teaching the robot
-from human demonstrations captured with cameras, and building the control,
-collision avoidance and vision it needs to grasp fruit in motion.
+🔭 **Currently:** my master's thesis, *Development of a learning-from-demonstration
+algorithm for robotic assistance in fruit picking on a conveyor belt using
+computer vision and a humanoid robot*. I capture human demonstrations with
+cameras and build the control, collision avoidance and vision a Unitree H1-2
+humanoid needs to pick tangerines from a moving belt.
 
 ## 🤖 Projects
 
