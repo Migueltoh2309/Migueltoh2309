@@ -1,5 +1,7 @@
 # Hi, I'm MiTo Olórtegui Huamán 👋
 
+🌐 **Website & portfolio: [migueltoh2309.github.io](https://migueltoh2309.github.io)**
+
 **Mechatronics engineer and master's student at UTEC** (Lima, Peru), working
 on robotics: control systems, robotic manipulators, humanoids and autonomous
 systems. I like taking an idea all the way from the math and the simulation to
@@ -46,4 +48,4 @@ humanoid needs to pick tangerines from a moving belt.
 
 ## 📫 Contact
 
-✉️ [molortegui@utec.edu.pe](mailto:molortegui@utec.edu.pe)
+🌐 [migueltoh2309.github.io](https://migueltoh2309.github.io) · ✉️ [molortegui@utec.edu.pe](mailto:molortegui@utec.edu.pe) · 💼 [LinkedIn](https://www.linkedin.com/in/miguel-olortegui-h)
